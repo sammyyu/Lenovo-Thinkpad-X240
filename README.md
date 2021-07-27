@@ -5,6 +5,10 @@
 
 Lenovo Thinkpad X240 using OpenCore Bootloader
 
+# Baseline
+OpenCore 0.7.1
+itlwm 1.3.0
+YogaSMC 1.5.1
 
 ### What works:
 - Intel HD Graphics 4400 QE/CI
