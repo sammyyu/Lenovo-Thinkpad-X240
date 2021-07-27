@@ -1,5 +1,11 @@
 #  Changelog
 
+#### OpenCore 0.7.1
+- Updated to OpenCore 0.7.1
+- Tested With BigSur 11.5.1
+- Updated to itlwm 1.3.0
+- Updated to YogaSMC 1.5.1
+
 #### OpenCore 0.6.7
 - Updated to OpenCore 0.6.7
 - Updated to Acidanthera March kext(s)
