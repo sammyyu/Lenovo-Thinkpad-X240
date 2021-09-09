@@ -6,8 +6,8 @@
 Lenovo Thinkpad X240 using OpenCore Bootloader
 
 # Baseline
-OpenCore 0.7.1
-itlwm 1.3.0
+OpenCore 0.7.2
+itlwm 2.0.0
 YogaSMC 1.5.1
 
 ### What works:

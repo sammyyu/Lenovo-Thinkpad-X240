@@ -1,5 +1,7 @@
 #  Changelog
 
+#### OpenCore 0.7.2
+
 #### OpenCore 0.7.1
 - Updated to itlwm 2.0.0
 
