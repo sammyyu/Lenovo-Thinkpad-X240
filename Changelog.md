@@ -1,6 +1,9 @@
 #  Changelog
 
 #### OpenCore 0.7.1
+- Updated to itlwm 2.0.0
+
+#### OpenCore 0.7.1
 - Updated to OpenCore 0.7.1
 - Tested With BigSur 11.5.1
 - Updated to itlwm 1.3.0
